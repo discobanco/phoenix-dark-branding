@@ -1,3 +1,3 @@
-title: Phoenix Dark
-description: A walking adventure game
-show_downloads: true
+title: "Phoenix Dark"
+description: "A walking adventure game"
+show_downloads: "true"
